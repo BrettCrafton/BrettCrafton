@@ -20,12 +20,12 @@
           </p>
         </td>
         <td width="50%">
-          <h3 align="center">Magical World of Harry Potter</h3>
+          <h3 align="center">NASA's Astronomy Picture of the Day</h3>
           <p align="center">
-            <a href="https://github.com/BrettCrafton/Magical-World-of-Harry-Potter" target="_blank" rel="noreferrer"> <img src="https://github.com/BrettCrafton/BrettCrafton/blob/main/assets/Harry%20Potter%20gif.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/BrettCrafton/Magical-World-of-Harry-Potter" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=07c7d5" alt="button to repository" height ="25px"></a> <a href="https://brettcrafton.com/Portfolio/Harry%20Potter/index.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-07c7d5?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <a href="https://github.com/BrettCrafton/NASA-APOD" target="_blank" rel="noreferrer"> <img src="https://github.com/BrettCrafton/BrettCrafton/blob/main/assets/NASA%20APOD%20gif.gif?raw=true" alt="project example"/> </a>
+            <span> <a href="https://github.com/BrettCrafton/NASA-APOD" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=07c7d5" alt="button to repository" height ="25px"></a> <a href="https://brettcrafton.com/Portfolio/NASA%20API/index.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-07c7d5?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-              Character discriptions and images from the World of Harry Potter.
+              Astronomy Picture of the Day pulled from NASA's API. Search by date, or click "Today's Date".
             </p>
           </p>
         </td>
