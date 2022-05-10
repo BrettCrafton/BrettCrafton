@@ -29,29 +29,19 @@
             </p>
           </p>
         </td>
-<!--         <td width="50%">
-          <h3 align="center">NASA's Astronomy Picture of the Day</h3>
-          <p align="center">
-            <a href="https://github.com/bytesbybianca/nasa-apod" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/nasa.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/bytesbybianca/nasa-apod" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=07c7d5" alt="button to repository" height ="25px"></a> <a href="https://get-nasa-apod.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-07c7d5?style=flat-square" alt="button to live site" height="25px"></a> </span>
-            <p align="center">
-              View NASA's Astronomy Picture of the Day either by selecting a date or clicking "Get random APOD"
-            </p>
-          </p>
-        </td>
-      </tr>
+        </tr>
       <tr>
         <td width="50%">
-          <h3 align="center">Marvel Cinematic Universe</h3>
+          <h3 align="center">Rick and Morty Parasite Detector</h3>
           <p align="center">
-            <a href="https://github.com/bytesbybianca/mcu-carousel" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/mcu-v2.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/bytesbybianca/mcu-carousel" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=07c7d5" alt="button to repository" height ="25px"></a> <a href="https://allmcu.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-07c7d5?style=flat-square" alt="button to live site" height="25px"></a></span>
+            <a href="https://github.com/BrettCrafton/Rick-and-Morty-Parasite-Detector" target="_blank" rel="noreferrer"> <img src="https://github.com/BrettCrafton/BrettCrafton/blob/main/assets/Rick%20and%20Morty%20gif.gif?raw=true" alt="project example"/> </a>
+            <span> <a href="https://github.com/BrettCrafton/Rick-and-Morty-Parasite-Detector" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=07c7d5" alt="button to repository" height ="25px"></a> <a href="https://brettcrafton.com/Portfolio/Rick-and-Morty/index.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-07c7d5?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-              View a countdown to the next MCU release, then choose an MCU movie to view more details.
+              Rick and Morty Parasite Detector. Based off the Total Rickall episode of Rick and Morty.
             </p>
           </p>
         </td>
-        <td width="50%">
+<!--         <td width="50%">
           <h3 align="center">The Good Place Quotes</h3>
           <p align="center">
             <a href="https://github.com/bytesbybianca/good-place-quotes" target="_blank" rel="noreferrer"> <img src="https://github.com/bytesbybianca/readme-assets/blob/main/profile-images/good-place.gif?raw=true" alt="project example"/> </a>
@@ -60,7 +50,7 @@
               View quotes from your favorite character from The Good Place (or click the random button!).
             </p>
           </p>
-        </td> -->
+        </td>  -->
       </tr>
   </table>
 </div>
