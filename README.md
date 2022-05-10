@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/BrettCrafton/BrettCrafton/blob/main/assets/name-title-center.png?raw=true" alt="Brett Crafton Logo"/>
+<a href="https://BrettCrafton.com" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/BrettCrafton/BrettCrafton/blob/main/assets/name-title-center.png?raw=true" alt="Brett Crafton Logo"/></a>
 <h4 align="center">A passionate software engineer from Fort Worth, Texas. Highly logical and flexible with a passion for problem-solving with novel ideas. Excel in managing multiple projects and tackling new tasks as priorities shift.</h4>
 
 
