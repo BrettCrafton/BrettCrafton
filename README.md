@@ -1,4 +1,15 @@
 <a href="https://BrettCrafton.com" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/BrettCrafton/BrettCrafton/blob/main/assets/name-title-center-gif.gif?raw=true" alt="Brett Crafton Logo"/></a>
+<div align="center">
+<a href="https://brettcrafton.com/">
+<img src="https://img.shields.io/badge/Portfolio-07c7d5?style=for-the-badge" alt="Portfolio Site" style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/BrettC_Dev">
+<img src="https://img.shields.io/badge/twitter-07c7d5?acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/brett-crafton/">
+<img src="https://img.shields.io/badge/linkedin-07c7d5?E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+</a>  
+</div>
 <h4 align="center">A passionate software engineer from Fort Worth, Texas. Highly logical and flexible with a passion for problem-solving with novel ideas. Excel in managing multiple projects and tackling new tasks as priorities shift.</h4>
 
 
