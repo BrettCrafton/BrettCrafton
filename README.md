@@ -114,6 +114,7 @@
 <h1 align="center" style="color:#07c7d5">Stats</h1>
 <div valign="center" align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brettcrafton&theme=dark" alt="brettcrafton" /></p>
+  <img align="center" src="https://github.r2v.ch/codewars?user=bcrafton&name=true&top_languages=true&stroke=%23949494" alt="Code Wars Stats" style="margin-bottom: 5px;" />
 </div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
