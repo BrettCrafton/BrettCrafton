@@ -21,6 +21,16 @@
   <table>
       <tr>
         <td width="50%">
+          <h3 align="center">You Can't Afford Rent</h3>
+          <p align="center">
+            <a href="https://github.com/BrettCrafton/You-Cant-Afford-Rent" target="_blank" rel="noreferrer"> <img src="#" alt="project example"/> </a>
+            <span> <a https://github.com/BrettCrafton/You-Cant-Afford-Rent" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=07c7d5" alt="button to repository" height ="25px"></a> <a href="https://youcantaffordrent.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-07c7d5?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <p align="center">
+              Wage, Rent, and Housing data for all 50 states.
+            </p>
+          </p>
+        </td>  
+        <td width="50%">
           <h3 align="center">Magical World of Harry Potter</h3>
           <p align="center">
             <a href="https://github.com/BrettCrafton/Magical-World-of-Harry-Potter" target="_blank" rel="noreferrer"> <img src="https://github.com/BrettCrafton/BrettCrafton/blob/main/assets/Harry%20Potter%20gif.gif?raw=true" alt="project example"/> </a>
@@ -30,19 +40,9 @@
             </p>
           </p>
         </td>
-               <td width="50%">
-          <h3 align="center">Cocktail Recipes</h3>
-          <p align="center">
-            <a href="https://github.com/BrettCrafton/Cocktail-Recipes" target="_blank" rel="noreferrer"> <img src="https://github.com/BrettCrafton/BrettCrafton/blob/main/assets/Cocktail%20Recipe%20gif.gif?raw=true" alt="project example"/> </a>
-            <span> <a href="https://github.com/BrettCrafton/Cocktail-Recipes" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=07c7d5" alt="button to repository" height ="25px"></a> <a href="https://brettcrafton.com/Portfolio/Bar%20API/index.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-07c7d5?style=flat-square" alt="button to live site" height="25px"></a> </span>
-            <p align="center">
-              Lookup cocktail recipes with ingredients and instructions.
-            </p>
-          </p>
-        </td>  
-        </tr>
+      </tr>
       <tr>
-        <td width="50%">
+      <td width="50%">
           <h3 align="center">Rick and Morty Parasite Detector</h3>
           <p align="center">
             <a href="https://github.com/BrettCrafton/Rick-and-Morty-Parasite-Detector" target="_blank" rel="noreferrer"> <img src="https://github.com/BrettCrafton/BrettCrafton/blob/main/assets/Rick%20and%20Morty%20gif.gif?raw=true" alt="project example"/> </a>
@@ -63,6 +63,18 @@
           </p>
         </td>      
       </tr>
+      <tr>
+        <td width="50%">
+          <h3 align="center">Cocktail Recipes</h3>
+          <p align="center">
+            <a href="https://github.com/BrettCrafton/Cocktail-Recipes" target="_blank" rel="noreferrer"> <img src="https://github.com/BrettCrafton/BrettCrafton/blob/main/assets/Cocktail%20Recipe%20gif.gif?raw=true" alt="project example"/> </a>
+            <span> <a href="https://github.com/BrettCrafton/Cocktail-Recipes" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=07c7d5" alt="button to repository" height ="25px"></a> <a href="https://brettcrafton.com/Portfolio/Bar%20API/index.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-07c7d5?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <p align="center">
+              Lookup cocktail recipes with ingredients and instructions.
+            </p>
+          </p>
+        </td>  
+        </tr>
   </table>
 </div>
 <h1 align="center" style="color:#07c7d5">Technologies</h1>
