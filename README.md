@@ -26,7 +26,7 @@
             <a href="https://github.com/BrettCrafton/You-Cant-Afford-Rent" target="_blank" rel="noreferrer"> <img src="https://github.com/BrettCrafton/BrettCrafton/blob/main/assets/you%20cant%20afford%20rent%20gif.gif?raw=true" alt="project example"/> </a>
             <span> <a href="https://github.com/BrettCrafton/You-Cant-Afford-Rent" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=07c7d5" alt="button to repository" height ="25px"></a> <a href="http://youcantaffordrent.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-07c7d5?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
-              (Under Construction) Wage, Rent, and Housing data for all 50 states.
+              Wage, Rent, and Housing data for all 50 states.
             </p>
           </p>
         </td>  
