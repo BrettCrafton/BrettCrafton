@@ -23,7 +23,7 @@
         <td width="50%">
           <h3 align="center">Lost But Found (MVP complete, under construction)</h3>
           <p align="center">
-            <a href="https://github.com/BrettCrafton/lost-but-found" target="_blank" rel="noreferrer"> <img src="#" alt="project example"/> </a>
+            <a href="https://github.com/BrettCrafton/lost-but-found" target="_blank" rel="noreferrer"> <img src="https://github.com/BrettCrafton/BrettCrafton/blob/main/assets/lost-but-found-small.gif?raw=true" alt="project example"/> </a>
             <span> <a href="https://github.com/BrettCrafton/lost-but-found" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=07c7d5" alt="button to repository" height ="25px"></a> <a href="https://bc-lost-but-found.herokuapp.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-live%20site-07c7d5?style=flat-square" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               A lost animal database with success stories.
