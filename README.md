@@ -14,7 +14,7 @@
 
 
 - Personal Site: [brettcrafton.com](https://brettcrafton.com/) 
-- Email me at: [brettcrafton@gmail.com](mailto:brettcrafton.dev@gmail.com)
+- Email me at: [bcrafton@gmail.com](mailto:bcrafton@gmail.com)
 
 <h1 align="center" style="color:#07c7d5">Projects</h1>
 <div align="center">
